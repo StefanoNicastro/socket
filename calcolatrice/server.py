@@ -23,7 +23,7 @@ while True:
     op = dati["operazione"]
     n2 = dati["secondoNumero"]
     
-    # Logica della calcolatrice
+
     risultato = 0
     if op == '+':
         risultato = n1 + n2
